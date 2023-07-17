@@ -1,0 +1,9 @@
+{
+  "Tags": [
+    {
+      "Key": "Hr.Onboarding.portal"
+    }
+  ],
+  "SeparateRuntimeDependencies": true,
+  "IncludeSources": true
+}
